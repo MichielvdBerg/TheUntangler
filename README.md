@@ -15,6 +15,6 @@ To succesfully use and run this project, you need to have several API key's:
 |Aishwarya Shastry|[Aishwarya-96](https://github.com/Aishwarya-96)|
 |Michiel van den Berg|[MichielvdBerg](https://github.com/michielvdberg)|
 
-Special thanks to our supervisor Panagiotis Mavridis https://github.com/panagiotismavridis
+Special thanks to our supervisor Dr. Panagiotis Mavridis https://github.com/panagiotismavridis
 
 ![alt text](https://github.com/MichielvdBerg/TheUntangler/blob/master/GroupPicture.jpg)
